@@ -8,11 +8,11 @@ class Program
 
         if (n % 2 == 0)
         {
-            Console.WriteLine("Even number");
+            Console.WriteLine("The entered number is a Even number");
         }
         else
         {
-            Console.WriteLine("Odd number");
+            Console.WriteLine("The entered number is a Odd number");
         }
     }
 }
