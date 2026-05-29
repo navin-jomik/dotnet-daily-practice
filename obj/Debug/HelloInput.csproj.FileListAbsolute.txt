@@ -1,7 +1,0 @@
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\bin\Debug\HelloInput.exe.config
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\bin\Debug\HelloInput.exe
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\bin\Debug\HelloInput.pdb
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\obj\Debug\HelloInput.csproj.AssemblyReference.cache
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\obj\Debug\HelloInput.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\obj\Debug\HelloInput.exe
-C:\Users\Dell\source\repos\dotnet-daily-practice\HelloInput\obj\Debug\HelloInput.pdb
